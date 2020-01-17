@@ -1,0 +1,19 @@
+{
+  "name": "nomorenotes",
+  "version": "1.0.0",
+  "description": "No more notes! Online messaging for classrooms.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomorenotes/nomorenotes.git.git"
+  },
+  "author": "Nathan Kulzer <nathan0kulzer@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nomorenotes/nomorenotes.git/issues"
+  },
+  "homepage": "https://github.com/nomorenotes/nomorenotes.git#readme"
+}
